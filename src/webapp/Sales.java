@@ -9,4 +9,6 @@ public class Sales {
     //..
 
     // more items added
+
+    // added holiday sales 35% off
 }
